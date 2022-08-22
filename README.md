@@ -19,5 +19,5 @@ Screen Shots:
   
 ![image](https://user-images.githubusercontent.com/66480107/185978004-e4d406e6-4c06-4f49-ba96-2e8816d6f9ab.png)
 ![image](https://user-images.githubusercontent.com/66480107/185978064-1a585e0c-083f-48e9-b9c0-7ccc52e32495.png)
-![image](https://user-images.githubusercontent.com/66480107/185978111-de86646a-da7a-45dc-8abf-b73c7919c851.png)
-![image](https://user-images.githubusercontent.com/66480107/185978129-abdfe9a2-6ee2-43e3-b6de-ebfd8b31e9cf.png)
+![image](https://user-images.githubusercontent.com/66480107/185978397-f4b88445-8fc6-4a4a-8245-8a476589c2db.png)
+![image](https://user-images.githubusercontent.com/66480107/185978443-f77fe0e6-4d46-4d87-bdee-ab4f5e6961b9.png)
