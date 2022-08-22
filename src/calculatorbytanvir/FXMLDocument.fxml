@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #ede0ff;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="calculatorbytanvir.FXMLDocumentController">
+   <children>
+      <TextField fx:id="input" layoutX="154.0" layoutY="150.0" prefHeight="31.0" prefWidth="364.0" promptText="Enter Your Mathmetical Expression" />
+      <TextField fx:id="output" layoutX="154.0" layoutY="190.0" prefHeight="31.0" prefWidth="364.0" promptText="Converted Expression" />
+      <Label layoutX="89.0" layoutY="152.0" prefHeight="21.0" prefWidth="73.0" text="INPUT   " textFill="#7709e6">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="75.0" layoutY="192.0" text="OUTPUT  " textFill="#7709e6">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <Button fx:id="convertbtn" layoutX="155.0" layoutY="238.0" mnemonicParsing="false" onAction="#convert" prefHeight="37.0" prefWidth="275.0" style="-fx-background-color: #7709e6;" text="Convert❤️‍🔥" textFill="WHITE">
+         <font>
+            <Font name="System Bold Italic" size="16.0" />
+         </font>
+      </Button>
+      <Label layoutX="73.0" layoutY="57.0" prefHeight="49.0" prefWidth="451.0" style="-fx-effect: #00ff44;" text="String Calculator" textFill="#7709e6">
+         <font>
+            <Font name="ROGFonts-Regular" size="33.0" />
+         </font>
+      </Label>
+      <Button fx:id="ClearBTN" layoutX="445.0" layoutY="237.0" mnemonicParsing="false" onAction="#clearbtn" prefHeight="37.0" prefWidth="73.0" style="-fx-background-color: #7709e6;" text="Clear" textFill="WHITE">
+         <font>
+            <Font name="System Bold Italic" size="16.0" />
+         </font>
+      </Button>
+      <Label layoutX="367.0" layoutY="345.0" text="Created By Tanvir Ahmed Khan">
+         <font>
+            <Font name="Segoe UI Italic" size="15.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
